@@ -1,4 +1,4 @@
-# RAG Streamlit App — Day 7 of GenAI Journey
+# RAG Streamlit App — Day 6 of GenAI Journey
 ## About the project
 ## This is a simple Retrieval‑Augmented Generation (RAG) demo app built as part of my 45‑day GenAI/NLP developer training journey. It uses:
 🔷 **SentenceTransformers** to embed documents & queries
